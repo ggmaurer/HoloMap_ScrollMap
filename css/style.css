@@ -1,0 +1,18 @@
+body{
+    font-family: 'Goudy Bookletter 1911', serif;
+    background-color: black;
+}
+p{
+    font-size:20px;
+    color: rgb(194, 170, 62);
+}
+
+h1{
+    color:rgb(194, 170, 62);
+    outline-style: solid;
+    outline-width: 5px;
+}
+
+.vert-center{
+    text-align: center;
+}
