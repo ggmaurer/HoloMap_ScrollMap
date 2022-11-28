@@ -3,7 +3,7 @@ body{
     background-color: black;
 }
 p{
-    font-size:20px;
+    font-size:30px;
     color: rgb(194, 170, 62);
 }
 
@@ -29,4 +29,34 @@ h1{
 
 .holomap{
     font-family: jedi;
+}
+
+.background-transparent{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px whitesmoke ;
+}
+
+.img-board{
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px whitesmoke ;
+    margin-bottom: 20px;
+}
+
+#carousel{
+    border-radius: 20px;
+    border-color: whitesmoke;
+    box-shadow: 10px 10px 5px whitesmoke ;
+    margin-bottom: 20px;
+}
+
+.carousel-inner{
+    border-radius: 20px;
+}
+
+.icons{
+    border-radius: 20px;
+    border-color: whitesmoke;
+    box-shadow: 10px 10px 5px whitesmoke ;
+    margin-bottom: 20px;
 }
