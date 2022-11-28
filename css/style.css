@@ -1,5 +1,5 @@
 body{
-    font-family: 'Goudy Bookletter 1911', serif;
+    font-family:Arial, Helvetica, sans-serif;
     background-color: black;
 }
 p{
@@ -15,4 +15,18 @@ h1{
 
 .vert-center{
     text-align: center;
+}
+
+.background-img{
+    background-size: cover;
+    background-position-y: 50%;
+}
+
+@font-face {
+    font-family: jedi;
+    src: url(fonts/Starjedi.ttf);
+  }
+
+.holomap{
+    font-family: jedi;
 }
